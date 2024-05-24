@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil!
+### Boas vindas ao meu perfil! *Divirta-se!*
 
 <!--
 **DavidGabriel2A/DavidGabriel2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
